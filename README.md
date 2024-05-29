@@ -1,3 +1,3 @@
 # MohammadIbrahimdemo
 This is my first GIT repository
-Author-Mihammad Ibrahim Ahangar
+Author-Mohammad Ibrahim Ahangar
